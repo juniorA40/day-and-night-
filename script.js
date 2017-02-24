@@ -20,9 +20,6 @@ function changeToNight(){
         document.getElementById("moonspot3").className = "";
          
     }
-    
 }
 
-
-tell me if this is right
 
